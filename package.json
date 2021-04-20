@@ -1,0 +1,14 @@
+{
+  "name": "evan",
+  "version": "1.0.0",
+  "author": "evan",
+  "scripts": {
+    "dev": "vuepress dev . --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6"
+  },
+  "description": "a personal blog"
+}
