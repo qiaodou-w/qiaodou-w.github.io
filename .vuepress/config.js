@@ -1,7 +1,7 @@
 module.exports = {
   title: "店小梦三",
   description: "a personal blog",
-  dest: "public",
+  dest: "dist",
   locales: {
     "/": {
       lang: "zh-CN",
